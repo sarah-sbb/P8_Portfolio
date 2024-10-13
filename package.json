@@ -1,0 +1,11 @@
+{
+  "name": "p8_portfolio",
+  "version": "1.0.0",
+  "description": "Mon portfolio présentant mes travaux en web et en design graphique",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sarah Basset",
+  "license": "ISC"
+}
